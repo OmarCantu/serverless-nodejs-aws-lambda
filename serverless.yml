@@ -1,4 +1,4 @@
-service: aws-node-http-api-project
+service: serverless-nodejs-aws-lambda
 frameworkVersion: '2'
 
 provider:
